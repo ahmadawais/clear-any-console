@@ -6,15 +6,12 @@
 	"increment": "minor",
 	"beforeChangelogCommand": "auto-changelog",
 	"safeBump": false,
-	"hooks": {
-		"after:bump": "auto-changelog && git add . && git commit -m ' 📖 DOC: Update the changelog' && git push"
-	},
 	"src": {
 		"commitMessage": "🦄 Release %s",
 		"tagAnnotation": "🦄 Release %s"
 	},
 	"git": {
-		"changelog": "auto-changelog",
+		"changelog": "auto-changelog && git add . && git commit -m ' 📖 DOC: Update the changelog' && git push",
 		"commitMessage": "🦄 Release ${version}",
 		"tagAnnotation": "🦄 Release ${version}"
 	},
