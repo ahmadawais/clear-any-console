@@ -8,7 +8,7 @@
 	"safeBump": false,
 	"hooks": {
 		"after:bump": "auto-changelog && git add . && git commit -m ' 📖 DOC: Update the changelog' && git push",
-		"after:release": "SUCCESSFULLY RELEASED: ${name} v${version}."
+		"after:release": "echo 'SUCCESSFULLY RELEASED: ${name} v${version}.'"
 	},
 	"src": {
 		"commitMessage": "🦄 Release %s",
