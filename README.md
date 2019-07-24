@@ -16,3 +16,5 @@ const clearConsole = require('clear-any-console');
 // Then when you want to clear the console.
 clearConsole();
 ```
+
+> Check out my [VSCode Power User Course](https://vscode.pro/) →
