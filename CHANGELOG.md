@@ -10,13 +10,14 @@ All notable changes in this project's [released versions](/releases) are documen
 
 <br>
 
-### 0.10.0 RELEASE
+### 0.11.0 RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
 
 - 📦 First commit [`b3a868e`](https://github.com/ahmadawais/clear-any-console/commit/b3a868ed71d051b480ee592f91819872a16614b5)
 - 📦 Dotfile [`ebe5b03`](https://github.com/ahmadawais/clear-any-console/commit/ebe5b035745b2c80a9e0855e87d982fa8c6b0d25)
 
+-  📖 Update the changelog [`ab47af3`](https://github.com/ahmadawais/clear-any-console/commit/ab47af316ed26212b79641a6018161ac993d35fa)
 - 📖 Install/Usage [`36dcc43`](https://github.com/ahmadawais/clear-any-console/commit/36dcc438f8fb8a078e54c6834e83ec37fb103d9e)
 -  📖 Update the changelog [`1e7f8e9`](https://github.com/ahmadawais/clear-any-console/commit/1e7f8e90be59637dca3f7f59d90bf3f93f114366)
 -  📖 Update the changelog [`5b6d946`](https://github.com/ahmadawais/clear-any-console/commit/5b6d94620c1c2953f91aac9e2603ebc6aef1efb1)
