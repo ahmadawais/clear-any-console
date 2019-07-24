@@ -23,6 +23,7 @@ All notable changes in this project's [released versions](/releases) are documen
 
 - 👌 IMPROVE: Just release [`44a6166`](https://github.com/ahmadawais/clear-any-console/commit/44a6166164cc669408baf3289ef73c3c7ba328f0)
 - 👌 IMPROVE: Release settings [`a43d1a0`](https://github.com/ahmadawais/clear-any-console/commit/a43d1a0a95890a901f9188482a506bb22928407b)
+- 👌 IMPROVE: Release settings changelog [`7c56e5f`](https://github.com/ahmadawais/clear-any-console/commit/7c56e5f6651b764673a37cc1e11cc36ada15d633)
 - 👌 IMPROVE: Release settings [`98d5b55`](https://github.com/ahmadawais/clear-any-console/commit/98d5b555f8c132b85bb3dc151a6872c44945bb14)
 - 👌 IMPROVE: Release settings [`2b5002d`](https://github.com/ahmadawais/clear-any-console/commit/2b5002dda70e38c4bda4213e7ba55149bd48d8e7)
 - 👌 IMPROVE: Release settings [`7996369`](https://github.com/ahmadawais/clear-any-console/commit/7996369ba949a8d735175b0e98b7db962839c609)
