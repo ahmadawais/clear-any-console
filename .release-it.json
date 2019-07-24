@@ -6,8 +6,8 @@
 	"increment": "minor",
 	"beforeChangelogCommand": "auto-changelog",
 	"safeBump": false,
-	"scripts": {
-		"beforeStage": "auto-changelog"
+	"hooks": {
+		"after:bump": "auto-changelog"
 	},
 	"src": {
 		"commitMessage": "🦄 Release %s",
