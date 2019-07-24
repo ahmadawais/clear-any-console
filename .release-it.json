@@ -7,7 +7,7 @@
 	"beforeChangelogCommand": "auto-changelog",
 	"safeBump": false,
 	"hooks": {
-		"after:bump": "auto-changelog"
+		"after:bump": "auto-changelog && git add . && git commit -m ' 📖 DOC: Update the changelog' && git push"
 	},
 	"src": {
 		"commitMessage": "🦄 Release %s",
