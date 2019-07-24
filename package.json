@@ -28,7 +28,7 @@
 	},
 	"auto-changelog": {
 		"output": "CHANGELOG.md",
-		"template": "./.vscode/changeLogTemplate.hbs",
+		"template": ".vscode/changeLogTemplate.hbs",
 		"unreleased": true,
 		"commitLimit": false,
 		"package": true
