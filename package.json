@@ -34,6 +34,6 @@
 		"package": true
 	},
 	"scripts": {
-		"release": "release-it && auto-changelog && git add . && git commit -m '📖 DOC: Update changelog' && git push"
+		"release": "release-it"
 	}
 }
