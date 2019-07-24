@@ -10,6 +10,24 @@ All notable changes in this project's [released versions](/releases) are documen
 
 <br>
 
+### [0.12.0](https://github.com/ahmadawais/clear-any-console/compare/0.11.0...0.12.0) RELEASE
+
+![img](https://on.ahmda.ws/t77b/c)
+
+- 👌 Markdown [`cb62a72`](https://github.com/ahmadawais/clear-any-console/commit/cb62a72641ee4e388b596d49ff1cb3bc789515f1)
+- 👌 Docs [`0ab0684`](https://github.com/ahmadawais/clear-any-console/commit/0ab0684ce5a2dbc37dc9b0af573768fd3f1f6055)
+- 👌 Release logs [`32fb1c6`](https://github.com/ahmadawais/clear-any-console/commit/32fb1c65be09396d16061ccd334187adeff1058c)
+
+![img](https://on.ahmda.ws/t5Xs/c)
+
+- 🐛 Lingo [`b0821f6`](https://github.com/ahmadawais/clear-any-console/commit/b0821f63ad56289c612c4d2556ac9e4fe4420cd3)
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### 0.11.0 RELEASE
 
 ![img](https://on.ahmda.ws/t5AU/c)
@@ -19,6 +37,7 @@ All notable changes in this project's [released versions](/releases) are documen
 
 -  📖 Update the changelog [`ab47af3`](https://github.com/ahmadawais/clear-any-console/commit/ab47af316ed26212b79641a6018161ac993d35fa)
 - 📖 Install/Usage [`36dcc43`](https://github.com/ahmadawais/clear-any-console/commit/36dcc438f8fb8a078e54c6834e83ec37fb103d9e)
+-  📖 Update the changelog [`66a6a49`](https://github.com/ahmadawais/clear-any-console/commit/66a6a49c1000efcc99a1754798a3a4e1f1a9d325)
 -  📖 Update the changelog [`1e7f8e9`](https://github.com/ahmadawais/clear-any-console/commit/1e7f8e90be59637dca3f7f59d90bf3f93f114366)
 -  📖 Update the changelog [`5b6d946`](https://github.com/ahmadawais/clear-any-console/commit/5b6d94620c1c2953f91aac9e2603ebc6aef1efb1)
 
