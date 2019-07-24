@@ -13,7 +13,8 @@
 	"git": {
 		"changelog": "auto-changelog && git add . && git commit -m ' 📖 DOC: Update the changelog' && git push",
 		"commitMessage": "🦄 Release ${version}",
-		"tagAnnotation": "🦄 Release ${version}"
+		"tagAnnotation": "🦄 Release ${version}",
+		"requireUpstream": false
 	},
 	"npm": {
 		"publish": true
