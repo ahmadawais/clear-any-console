@@ -31,9 +31,17 @@
 		"template": ".vscode/changeLogTemplate.hbs",
 		"unreleased": true,
 		"commitLimit": false,
-		"package": true
+		"package": true,
+		"replaceText": {
+			"FIX: ": "",
+			"NEW: ": "",
+			"IMPROVE: ": "",
+			"DOC: ": ""
+		}
 	},
 	"scripts": {
-		"release": "release-it"
+		"release": "release-it",
+		"release-major": "release-it major",
+		"release-dry": "release-it --dry-run"
 	}
 }
