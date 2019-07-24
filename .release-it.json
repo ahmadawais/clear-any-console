@@ -15,6 +15,7 @@
 		"tagAnnotation": "🦄 Release %s"
 	},
 	"git": {
+		"changelog": "git log --pretty=format:\"* %s (%h)\" ${latestTag}...HEAD",
 		"commitMessage": "🦄 Release ${version}",
 		"tagAnnotation": "🦄 Release ${version}",
 		"requireUpstream": false
