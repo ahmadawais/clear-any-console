@@ -1,6 +1,6 @@
 # clear-any-console
 
- > 📟 Cross platform console clear for your next Node.js CLI.
+ 📟 Cross platform console clear for your next Node.js CLI.
 
 ## Install
 
