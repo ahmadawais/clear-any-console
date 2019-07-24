@@ -10,7 +10,21 @@ All notable changes in this project's [released versions](/releases) are documen
 
 <br>
 
+### [1.0.0](https://github.com/ahmadawais/clear-any-console/compare/0.12.0...1.0.0) RELEASE
+
+![img](https://on.ahmda.ws/t77b/c)
+
+- 👌 After release message [`0138e12`](https://github.com/ahmadawais/clear-any-console/commit/0138e12108155fb2ac997117fe779960283c3851)
+
+<br>
+
+![hr](https://on.ahmda.ws/t6N5/c)
+
+<br>
+
 ### [0.12.0](https://github.com/ahmadawais/clear-any-console/compare/0.11.0...0.12.0) RELEASE
+
+-  📖 Update the changelog [`5b72711`](https://github.com/ahmadawais/clear-any-console/commit/5b72711238e78a9a9f297aa48d712a9cfc25b002)
 
 ![img](https://on.ahmda.ws/t77b/c)
 
