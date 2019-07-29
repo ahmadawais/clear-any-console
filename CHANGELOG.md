@@ -17,11 +17,31 @@ I have released a video course to help you become a better developer — <a href
 
 <br />
 
+### RELEASE: [1.7.0](https://github.com/ahmadawais/clear-any-console/compare/1.6.0...1.7.0)
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 No local linters [`bbf020e`](https://github.com/ahmadawais/clear-any-console/commit/bbf020e20c92847aef94569d659a06463d34207c) <br>
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Extraneous dir [`90b37c7`](https://github.com/ahmadawais/clear-any-console/commit/90b37c74eb310ffe59e083e8407dd26fd081b486) <br>
+
+<br />
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br />
+
 ### RELEASE: [1.6.0](https://github.com/ahmadawais/clear-any-console/compare/1.5.0...1.6.0)
 
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 Extraneous dir [`95367e7`](https://github.com/ahmadawais/clear-any-console/commit/95367e75e5fdd411d8d21d3b70b883678fd13207) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`c9bfa5e`](https://github.com/ahmadawais/clear-any-console/commit/c9bfa5e9834dbea06822cbd5123f4f8dfbb92de4) <br>
 
 <br />
 
