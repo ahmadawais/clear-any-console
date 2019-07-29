@@ -3,7 +3,7 @@
 [![Learn VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF&style=flat)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWIS%20%E2%86%92-gray.svg?colorB=1da1f2&colorA=1da1f2&style=flat)](https://twitter.com/mrahmadawais/)
 
-> {{description}}
+> Cross platform console clear for your next Node.js CLI.
 
 <br />
 
