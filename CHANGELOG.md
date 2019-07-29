@@ -17,6 +17,18 @@ I have released a video course to help you become a better developer — <a href
 
 <br />
 
+### RELEASE: [1.9.0](https://github.com/ahmadawais/clear-any-console/compare/1.8.0...1.9.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Description [`526dc53`](https://github.com/ahmadawais/clear-any-console/commit/526dc53b7e95304ed00dd6c900637e1725b34d4d) <br>
+
+<br />
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br />
+
 ### RELEASE: [1.8.0](https://github.com/ahmadawais/clear-any-console/compare/1.7.0...1.8.0)
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -27,6 +39,10 @@ I have released a video course to help you become a better developer — <a href
 
 > 👌 Documentation [`af5748c`](https://github.com/ahmadawais/clear-any-console/commit/af5748c2e08c578c5e3ec933c0eba5cd0801351e) <br>
 > 👌 Documentation [`7931146`](https://github.com/ahmadawais/clear-any-console/commit/793114666d53d8ebc57dc8c01156e746be97a602) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`0c2c4be`](https://github.com/ahmadawais/clear-any-console/commit/0c2c4be6402d713b279a7b51dde2ea926c87bae9) <br>
 
 <br />
 

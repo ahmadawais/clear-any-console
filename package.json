@@ -1,6 +1,6 @@
 {
 	"name": "clear-any-console",
-	"version": "1.8.0",
+	"version": "1.9.0",
 	"description": "Cross platform console clear for your next Node.js CLI.",
 	"author": "Ahmad Awais (https://twitter.com/MrAhmadAwais/)",
 	"license": "MIT",
