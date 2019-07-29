@@ -11,7 +11,29 @@ I have released a video course to help you become a better developer — <a href
 
 <a href="https://vscode.pro/?utm_source=GitHubFOSS" target="_blank"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/vscodepro/VSCode.jpeg" /><br />VSCode</a> →
 
-**KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `✅ TEST`
+<br />
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+**CHANGELOG KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `✅ TEST`
+
+<small>
+
+> _I use [Emoji-log](https://github.com/ahmadawais/Emoji-Log), you should try it and simplify your git commits._
+
+</small>
+
+<br />
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br />
+
+### RELEASE: [1.14.0](https://github.com/ahmadawais/clear-any-console/compare/1.13.0...1.14.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Links [`4e10d5e`](https://github.com/ahmadawais/clear-any-console/commit/4e10d5e28d6afc622ca7d568f6f026e91827d3f7) <br>
 
 <br />
 
@@ -30,6 +52,10 @@ I have released a video course to help you become a better developer — <a href
 > 🐛 Brokern link [`cd6de43`](https://github.com/ahmadawais/clear-any-console/commit/cd6de43226942e8aba4f43828da887513defe1e6) <br>
 > 🐛 Brokern link [`59d305b`](https://github.com/ahmadawais/clear-any-console/commit/59d305bac0fc0bd16c4dd8b7359d49c33ca48da9) <br>
 > 🐛 Case [`7ecba50`](https://github.com/ahmadawais/clear-any-console/commit/7ecba507bab71f0f4570cee233772625a4512ab9) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`a9761f3`](https://github.com/ahmadawais/clear-any-console/commit/a9761f3637604bd911e7a6fd8a01c242d63c86f7) <br>
 
 <br />
 
@@ -309,14 +335,6 @@ I have released a video course to help you become a better developer — <a href
 >  📖 Update the changelog [`5b6d946`](https://github.com/ahmadawais/clear-any-console/commit/5b6d94620c1c2953f91aac9e2603ebc6aef1efb1) <br>
 
 <br />
-
-<br />
-
-<small>
-
-> _I use [Emoji-log](https://github.com/ahmadawais/Emoji-Log), you should try it and simplify your git commits._
-
-</small>
 
 <br />
 
