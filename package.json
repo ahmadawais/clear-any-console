@@ -24,27 +24,5 @@
 	"bugs": {
 		"url": "https://github.com/ahmadawais/ClearConsole/issues"
 	},
-	"homepage": "https://github.com/ahmadawais/ClearConsole#readme",
-	"devDependencies": {
-		"auto-changelog": "^1.14.1",
-		"release-it": "^12.3.4"
-	},
-	"auto-changelog": {
-		"output": "CHANGELOG.md",
-		"template": ".vscode/changeLogTemplate.hbs",
-		"unreleased": true,
-		"commitLimit": false,
-		"package": true,
-		"replaceText": {
-			"FIX: ": "",
-			"NEW: ": "",
-			"IMPROVE: ": "",
-			"DOC: ": ""
-		}
-	},
-	"scripts": {
-		"release": "release-it",
-		"release-major": "release-it major",
-		"release-dry": "release-it --dry-run"
-	}
+	"homepage": "https://github.com/ahmadawais/ClearConsole#readme"
 }
