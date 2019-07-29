@@ -7,7 +7,7 @@
 
 <br />
 
-[![📟](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/install.png)](/)
+[![📟](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/install.png)](./../../)
 
 ## Install
 
@@ -17,7 +17,7 @@ npm install clear-any-console
 
 <br />
 
-[![⚙️](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/usage.png)](/)
+[![⚙️](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/usage.png)](./../../)
 
 ## Usage
 
@@ -46,7 +46,7 @@ clearConsole();
 
 <br />
 
-[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/license.png)](/)
+[![📃](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/license.png)](./../../)
 
 ## License & Conduct
 
@@ -55,7 +55,7 @@ clearConsole();
 
 <br />
 
-[![🙌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/connect.png)](/)
+[![🙌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/connect.png)](./../../)
 
 ## Connect
 
@@ -69,7 +69,7 @@ clearConsole();
 
 <br />
 
-[![👌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/sponsor.png)](/)
+[![👌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/sponsor.png)](./../../)
 
 ## Sponsor
 
