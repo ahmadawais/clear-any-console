@@ -1,6 +1,6 @@
 # CHANGELOG
 
-All notable changes in this project's released versions are documented in this file.
+All notable changes in this project's [released versions](../../releases) are documented in this file.
 
 [![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
