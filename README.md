@@ -30,11 +30,11 @@ clearConsole();
 
 <br />
 
-[![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](changelog.md)
+[![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](./../../changelog.md)
 
 ## Changelog
 
-[❯ Read the changelog here →](changelog.md)
+[❯ Read the changelog here →](./../../changelog.md)
 
 <br />
 
