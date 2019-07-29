@@ -3,7 +3,7 @@
 [![VSCode](https://img.shields.io/badge/-VSCode.pro%20%E2%86%92-gray.svg?colorB=4D2AFF)](https://VSCode.pro/?utm_source=GitHubFOSS)
 [![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
 
-> 📟 Cross platform console clear for your next Node.js CLI.
+> {{description}}
 
 <br />
 
@@ -30,13 +30,19 @@ clearConsole();
 
 <br />
 
-[![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](/)
+[![📝](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/log.png)](changelog.md)
 
 ## Changelog
 
-I use [Emoji-log](https://github.com/ahmadawais/Emoji-Log), you should as well. Checkout what's 📦 new, 👌 improved, 🐛 fixed, and  if the 📖 docs got an update.
+[❯ Read the changelog here →](changelog.md)
 
- [Read the changelog here →](changelog.md)
+<br />
+
+<small>**KEY**: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `✅ TEST`
+
+> _I use [Emoji-log](https://github.com/ahmadawais/Emoji-Log), you should as well._
+
+</small>
 
 <br />
 
