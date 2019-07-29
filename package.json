@@ -2,8 +2,13 @@
 	"name": "clear-any-console",
 	"version": "1.11.0",
 	"description": "Cross platform console clear for your next Node.js CLI.",
-	"author": "Ahmad Awais (https://twitter.com/MrAhmadAwais/)",
 	"license": "MIT",
+	"repository": "ahmadawais/clear-any-console",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais"
+	},
 	"main": "index.js",
 	"files": [
 		"index.js"
@@ -15,14 +20,9 @@
 		"clear console",
 		"clear console windows",
 		"clear console linux",
-		"clear console mac OS"
-	],
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/ahmadawais/clear-any-console.git"
-	},
-	"bugs": {
-		"url": "https://github.com/ahmadawais/ClearConsole/issues"
-	},
-	"homepage": "https://github.com/ahmadawais/ClearConsole#readme"
+		"clear console mac OS",
+		"clear-any-console",
+		"Ahmad Awais",
+		"ahmadawais"
+	]
 }
