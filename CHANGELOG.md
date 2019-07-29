@@ -17,6 +17,23 @@ I have released a video course to help you become a better developer — <a href
 
 <br />
 
+### RELEASE: [1.8.0](https://github.com/ahmadawais/clear-any-console/compare/1.7.0...1.8.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Read me [`f68c132`](https://github.com/ahmadawais/clear-any-console/commit/f68c1323895132567441f90ff52b529c3d8af9e2) <br>
+
+![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
+
+> 👌 Documentation [`af5748c`](https://github.com/ahmadawais/clear-any-console/commit/af5748c2e08c578c5e3ec933c0eba5cd0801351e) <br>
+> 👌 Documentation [`7931146`](https://github.com/ahmadawais/clear-any-console/commit/793114666d53d8ebc57dc8c01156e746be97a602) <br>
+
+<br />
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br />
+
 ### RELEASE: [1.7.0](https://github.com/ahmadawais/clear-any-console/compare/1.6.0...1.7.0)
 
 ![👌 IMPROVE:](https://img.shields.io/badge/-IMPROVEMENT-gray.svg?colorB=39AA54)
@@ -26,6 +43,10 @@ I have released a video course to help you become a better developer — <a href
 ![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
 
 > 🐛 Extraneous dir [`90b37c7`](https://github.com/ahmadawais/clear-any-console/commit/90b37c74eb310ffe59e083e8407dd26fd081b486) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+>  📖 Changelog update [`f743e73`](https://github.com/ahmadawais/clear-any-console/commit/f743e73183b61e689d43bafea82fc7686f885f13) <br>
 
 <br />
 
