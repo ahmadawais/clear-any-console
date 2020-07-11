@@ -24,5 +24,8 @@
 		"clear-any-console",
 		"Ahmad Awais",
 		"ahmadawais"
-	]
+	],
+	"dependencies": {
+		"@scarf/scarf": "^1.0.6"
+	}
 }
