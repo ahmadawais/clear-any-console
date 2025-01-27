@@ -26,6 +26,6 @@
 		"ahmadawais"
 	],
 	"dependencies": {
-		"langbase": "^1.1.16"
+		"langbase": "*"
 	}
 }
