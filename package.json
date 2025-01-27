@@ -1,6 +1,6 @@
 {
 	"name": "clear-any-console",
-	"version": "1.16.2",
+	"version": "1.16.3",
 	"description": "Cross platform console clear for your next Node.js CLI.",
 	"license": "MIT",
 	"repository": "ahmadawais/clear-any-console",
