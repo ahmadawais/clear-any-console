@@ -1,20 +1,22 @@
-const { cmd } = require('command-code');
 const clearAnyConsole = require('./index.js');
 
 (async () => {
-	try {
-		const response = await cmd({
-			prompt: '/review'
-		});
+	process.argv = [
+		process.argv[0],
+		require.resolve('command-code'),
+		'-p',
+		'/review changes and rate the changes 1-5, no exploring',
+		'--yolo',
+		'--verbose'
+	];
 
-		console.log(response);
+	try {
+		await import('command-code');
 	} catch (err) {
-		console.log(err);
+		// cmd exited non-zero, that's fine
 	}
 
-	// The above should have an error but we want to clear it.
-
-	// Clear console (could be the first thing at the top)
+	// Clear console after cmd output
 	clearAnyConsole();
 
 	// User should see cleared console with this message.
