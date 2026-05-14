@@ -26,6 +26,7 @@
 		"ahmadawais"
 	],
 	"dependencies": {
+		"command-code": "*",
 		"langbase": "*"
 	}
 }

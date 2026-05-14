@@ -1,20 +1,10 @@
-const { Langbase } = require('langbase');
+const { cmd } = require('command-code');
 const clearAnyConsole = require('./index.js');
 
 (async () => {
 	try {
-		const langbase = new Langbase({
-			apiKey: process.env.LANGBASE_API_KEY
-		});
-
-		const response = await langbase.pipe.run({
-			name: 'ai-agent',
-			messages: [
-				{
-					role: 'user',
-					content: 'What is https://Langbase.com?',
-				},
-			],
+		const response = await cmd({
+			prompt: '/review'
 		});
 
 		console.log(response);
