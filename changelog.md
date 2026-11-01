@@ -1,32 +1,13 @@
-# Changelog
-
-## [1.16.4](https://github.com/ahmadawais/clear-any-console/compare/v1.16.3...v1.16.4) (2026-05-14)
-
-### Features
-
-* wip adding harness testing ([7dd6931](https://github.com/ahmadawais/clear-any-console/commit/7dd6931df9492643ba22cbcc3813c3f82bc22ad6))
-* wip: command auto review workflow ([147404f](https://github.com/ahmadawais/clear-any-console/commit/147404faa7055d8f4c2abd3b9863a4cc62b98853))
-
 # CHANGELOG
 
-[![Twitter @MrAhmadAwais](https://img.shields.io/badge/Twitter-@MrAhmadAwais-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://twitter.com/MrAhmadAwais/) [![LinkedIn @MrAhmadAwais](https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://www.linkedin.com/in/MrAhmadAwais/) [![YouTube AhmadAwais](https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://youtube.com/AhmadAwais?sub_confirmation=1) [![Blog: AhmadAwais.com](https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://AhmadAwais.com/) [![GitHub @AhmadAwais](https://img.shields.io/badge/-GitHub-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://github.com/ahmadawais)
-
-> I have released a video course to help you build <a href="https://NodeCLI.com/?utm_source=FOSS" target="_blank">Node.js CLIs for Automation</a> →</p>
-
-> [Support my work][sponsor]: Hey there! If you or your company have been benefiting from any of my projects or simply appreciate the awesomeness I bring to the table, why not consider backing me up? I'm committed to sticking around for the long haul, tirelessly advocating for open-source development.
-
-[![Sponsor Awais](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)][s]
-
-<small><strong>❯❯ Professional Development Courses ↓</strong></small>
+[![X @MrAhmadAwais](https://img.shields.io/badge/X-@MrAhmadAwais-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://x.com/MrAhmadAwais/) [![LinkedIn @MrAhmadAwais](https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://www.linkedin.com/in/MrAhmadAwais/) [![YouTube AhmadAwais](https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://youtube.com/AhmadAwais?sub_confirmation=1) [![Blog: AhmadAwais.com](https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://AhmadAwais.com/) [![GitHub @AhmadAwais](https://img.shields.io/badge/-GitHub-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)](https://github.com/ahmadawais)
 
 [![Node CLI Course](https://img.shields.io/badge/LEARN-Node%20CLI%20Automation-gray.svg?colorA=215732&colorB=44883e&style=for-the-badge)][n] [![VSCode Course](https://img.shields.io/badge/LEARN-VSCode%20Power%20User-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)][v] [![Node.js Course](https://img.shields.io/badge/LEARN-Node.js%20(free)-gray.svg?colorA=21262D&colorB=30363D&style=for-the-badge)][nj]
 
-[s]: https://github.com/AhmadAwais/sponsor
 [n]: https://NodeCLI.com?utm_source=github.com/ahmadawais/changelog&utm_medium=referral&utm_campaign=changelog
 [v]: https://VSCode.pro?utm_source=github.com/ahmadawais/changelog&utm_medium=referral&utm_campaign=changelog
 [nj]: https://NodejsBeginner.com?utm_source=github.com/ahmadawais/changelog&utm_medium=referral&utm_campaign=changelog
 [g]: https://github.com/AhmadAwais
-[sponsor]: https://github.com/AhmadAwais/sponsor
 
 <br>
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
@@ -46,6 +27,38 @@ All notable changes in this project's [released versions](../../releases) are do
 > _I use [Emoji-log](https://github.com/ahmadawais/Emoji-Log), you should try it and simplify your git commits._
 
 </small>
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
+### RELEASE: [v1.16.5](https://github.com/ahmadawais/clear-any-console/compare/v1.16.4...v1.16.5)
+
+![📖 DOC:](https://img.shields.io/badge/📖-DOCS-gray.svg?colorA=1169DA&colorB=1169DA&style=for-the-badge)
+
+> 📖 Fix docs [`f41fdf9`](https://github.com/ahmadawais/clear-any-console/commit/f41fdf96443ef16bd2447d23c5c8f7c623014eac)
+
+![🤖 TEST:](https://img.shields.io/badge/🤖-TEST-gray.svg?colorA=F9D0C4&colorB=F9D0C4&style=for-the-badge)
+
+> 🤖 New managed agents with cmd instead of langbase [`c5604d3`](https://github.com/ahmadawais/clear-any-console/commit/c5604d3d7142d3347cc71ca4ba3127bf61bf8570)
+
+<br>
+
+<br>
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/dark-hr.png#gh-dark-mode-only" alt="hr" />
+<img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
+<br>
+
+### RELEASE: [v1.16.4](https://github.com/ahmadawais/clear-any-console/compare/v1.16.3...v1.16.4)
+
+![📦 NEW:](https://img.shields.io/badge/📦-NEW-gray.svg?colorA=238635&colorB=238635&style=for-the-badge)
+
+> 📦 wip adding harness testing [`7dd6931`](https://github.com/ahmadawais/clear-any-console/commit/7dd6931df9492643ba22cbcc3813c3f82bc22ad6)
+
+> 📦 wip: command auto review workflow [`147404f`](https://github.com/ahmadawais/clear-any-console/commit/147404faa7055d8f4c2abd3b9863a4cc62b98853)
 
 <br>
 
@@ -501,9 +514,7 @@ All notable changes in this project's [released versions](../../releases) are do
 <img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/changelog/light-hr.png#gh-light-mode-only" alt="hr" />
 <br>
 
-[s]: https://github.com/AhmadAwais/sponsor
 [n]: https://NodeCLI.com?utm_source=github.com/ahmadawais/changelog&utm_medium=referral&utm_campaign=changelog
 [v]: https://VSCode.pro?utm_source=github.com/ahmadawais/changelog&utm_medium=referral&utm_campaign=changelog
 [nj]: https://NodejsBeginner.com?utm_source=github.com/ahmadawais/changelog&utm_medium=referral&utm_campaign=changelog
 [g]: https://github.com/AhmadAwais
-[sponsor]: https://github.com/AhmadAwais/sponsor
